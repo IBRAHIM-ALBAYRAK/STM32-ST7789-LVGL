@@ -1,0 +1,15 @@
+lv_color.h:375:24:lv_color_to32	1
+lv_color.h:439:48:lv_color_mix	1
+lv_color.h:588:26:lv_color_make	1
+lv_color.h:689:26:lv_color_white	1
+lv_color.h:693:26:lv_color_black	1
+lv_color.c:36:28:lv_color_fill	4
+lv_color.c:126:12:lv_color_lighten	1
+lv_color.c:131:12:lv_color_darken	1
+lv_color.c:136:12:lv_color_change_lightness	3
+lv_color.c:151:12:lv_color_hsv_to_rgb	7
+lv_color.c:216:16:lv_color_rgb_to_hsv	10
+lv_color.c:267:16:lv_color_to_hsv	1
+lv_color.c:274:12:lv_palette_main	2
+lv_color.c:293:12:lv_palette_lighten	4
+lv_color.c:332:12:lv_palette_darken	4

@@ -1,0 +1,5 @@
+lv_area.h:123:26:lv_area_get_width	1
+lv_draw_sw_line.c:52:28:lv_draw_sw_line	12
+lv_draw_sw_line.c:112:35:draw_line_hor	14
+lv_draw_sw_line.c:198:35:draw_line_ver	13
+lv_draw_sw_line.c:278:35:draw_line_skew	14

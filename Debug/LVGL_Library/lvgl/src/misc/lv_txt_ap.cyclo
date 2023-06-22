@@ -1,0 +1,5 @@
+lv_txt_ap.c:109:10:_lv_txt_ap_calc_bytes_cnt	6
+lv_txt_ap.c:143:6:_lv_txt_ap_proc	25
+lv_txt_ap.c:256:17:lv_ap_get_char_index	7
+lv_txt_ap.c:271:17:lv_txt_lam_alef	7
+lv_txt_ap.c:296:13:lv_txt_is_arabic_vowel	3

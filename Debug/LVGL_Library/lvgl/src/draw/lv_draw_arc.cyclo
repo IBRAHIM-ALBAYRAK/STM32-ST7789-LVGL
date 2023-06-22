@@ -1,0 +1,5 @@
+lv_color.h:588:26:lv_color_make	1
+lv_color.h:693:26:lv_color_black	1
+lv_draw_arc.c:36:6:lv_draw_arc_dsc_init	1
+lv_draw_arc.c:44:6:lv_draw_arc	4
+lv_draw_arc.c:57:6:lv_draw_arc_get_area	25

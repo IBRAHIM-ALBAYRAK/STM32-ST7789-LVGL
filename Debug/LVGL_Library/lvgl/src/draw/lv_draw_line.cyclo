@@ -1,0 +1,4 @@
+lv_color.h:588:26:lv_color_make	1
+lv_color.h:693:26:lv_color_black	1
+lv_draw_line.c:37:28:lv_draw_line_dsc_init	1
+lv_draw_line.c:45:28:lv_draw_line	3

@@ -1,0 +1,10 @@
+lv_sjpg.c:129:6:lv_split_jpeg_init	1
+lv_sjpg.c:148:17:decoder_info	18
+lv_sjpg.c:283:12:img_data_cb	2
+lv_sjpg.c:302:15:input_func	7
+lv_sjpg.c:344:17:decoder_open	43
+lv_sjpg.c:721:17:decoder_read_line	13
+lv_sjpg.c:869:13:decoder_close	5
+lv_sjpg.c:893:12:is_jpg	2
+lv_sjpg.c:900:13:lv_sjpg_free	6
+lv_sjpg.c:909:13:lv_sjpg_cleanup	2

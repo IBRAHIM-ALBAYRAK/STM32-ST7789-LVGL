@@ -1,0 +1,10 @@
+../LVGL_Library/lvgl/src/extra/libs/sjpg/lv_sjpg.c:129:6:lv_split_jpeg_init	16	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/lv_sjpg.c:148:17:decoder_info	288	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/lv_sjpg.c:283:12:img_data_cb	64	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/lv_sjpg.c:302:15:input_func	48	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/lv_sjpg.c:344:17:decoder_open	328	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/lv_sjpg.c:721:17:decoder_read_line	96	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/lv_sjpg.c:869:13:decoder_close	24	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/lv_sjpg.c:893:12:is_jpg	32	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/lv_sjpg.c:900:13:lv_sjpg_free	16	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/lv_sjpg.c:909:13:lv_sjpg_cleanup	16	static

@@ -1,0 +1,7 @@
+lv_area.h:123:26:lv_area_get_width	1
+lv_area.h:133:26:lv_area_get_height	1
+lv_color.h:588:26:lv_color_make	1
+lv_color.h:689:26:lv_color_white	1
+lv_color.h:693:26:lv_color_black	1
+lv_draw_rect.c:37:28:lv_draw_rect_dsc_init	1
+lv_draw_rect.c:62:6:lv_draw_rect	3

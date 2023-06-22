@@ -1,0 +1,15 @@
+lv_area.h:286:26:lv_pct	2
+lv_font.h:124:26:lv_font_get_line_height	1
+lv_obj_style_gen.h:463:33:lv_obj_get_style_text_font	1
+lv_disp.h:191:26:lv_layer_top	1
+lv_msgbox.c:61:12:lv_msgbox_create	21
+lv_msgbox.c:139:12:lv_msgbox_get_title	1
+lv_msgbox.c:146:12:lv_msgbox_get_close_btn	1
+lv_msgbox.c:153:12:lv_msgbox_get_text	1
+lv_msgbox.c:160:12:lv_msgbox_get_content	1
+lv_msgbox.c:167:12:lv_msgbox_get_btns	1
+lv_msgbox.c:174:10:lv_msgbox_get_active_btn	1
+lv_msgbox.c:180:14:lv_msgbox_get_active_btn_text	1
+lv_msgbox.c:186:6:lv_msgbox_close	2
+lv_msgbox.c:192:6:lv_msgbox_close_async	2
+lv_msgbox.c:202:13:msgbox_close_click_event_cb	1

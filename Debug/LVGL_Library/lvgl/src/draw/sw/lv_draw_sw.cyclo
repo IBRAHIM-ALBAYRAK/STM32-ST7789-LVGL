@@ -1,0 +1,5 @@
+lv_area.h:123:26:lv_area_get_width	1
+lv_draw_sw.c:40:6:lv_draw_sw_init_ctx	1
+lv_draw_sw.c:67:6:lv_draw_sw_deinit_ctx	1
+lv_draw_sw.c:75:6:lv_draw_sw_wait_for_finish	1
+lv_draw_sw.c:81:6:lv_draw_sw_buffer_copy	2

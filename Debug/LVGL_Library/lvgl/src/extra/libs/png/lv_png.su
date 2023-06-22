@@ -1,0 +1,6 @@
+../LVGL_Library/lvgl/src/extra/libs/png/../../../../src/hal/../draw/../misc/lv_color.h:588:26:lv_color_make	16	static
+../LVGL_Library/lvgl/src/extra/libs/png/lv_png.c:47:6:lv_png_init	16	static
+../LVGL_Library/lvgl/src/extra/libs/png/lv_png.c:65:17:decoder_info	80	static
+../LVGL_Library/lvgl/src/extra/libs/png/lv_png.c:126:17:decoder_open	80	static
+../LVGL_Library/lvgl/src/extra/libs/png/lv_png.c:199:13:decoder_close	16	static
+../LVGL_Library/lvgl/src/extra/libs/png/lv_png.c:213:13:convert_color_depth	32	static

@@ -1,0 +1,11 @@
+../LVGL_Library/lvgl/src/extra/libs/sjpg/tjpgd.c:132:14:alloc_pool	24	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/tjpgd.c:158:16:create_qt_tbl	40	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/tjpgd.c:194:16:create_huffman_tbl	64	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/tjpgd.c:282:12:huffext	56	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/tjpgd.c:423:12:bitext	40	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/tjpgd.c:508:16:restart	32	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/tjpgd.c:579:13:block_idct	88	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/tjpgd.c:702:16:mcu_load	64	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/tjpgd.c:788:16:mcu_output	144	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/tjpgd.c:962:9:jd_prepare	56	static
+../LVGL_Library/lvgl/src/extra/libs/sjpg/tjpgd.c:1118:9:jd_decomp	48	static

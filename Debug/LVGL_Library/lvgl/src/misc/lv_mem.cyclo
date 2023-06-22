@@ -1,0 +1,14 @@
+lv_mem.c:86:6:lv_mem_init	1
+lv_mem.c:112:6:lv_mem_deinit	1
+lv_mem.c:125:8:lv_mem_alloc	2
+lv_mem.c:169:6:lv_mem_free	3
+lv_mem.c:194:8:lv_mem_realloc	4
+lv_mem.c:219:10:lv_mem_test	2
+lv_mem.c:246:6:lv_mem_monitor	1
+lv_mem.c:276:8:lv_mem_buf_get	13
+lv_mem.c:332:6:lv_mem_buf_release	3
+lv_mem.c:349:6:lv_mem_buf_free_all	3
+lv_mem.c:368:30:lv_memcpy	10
+lv_mem.c:430:28:lv_memset	7
+lv_mem.c:473:28:lv_memset_00	7
+lv_mem.c:511:28:lv_memset_ff	7

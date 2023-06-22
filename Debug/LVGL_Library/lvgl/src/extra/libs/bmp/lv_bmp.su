@@ -1,0 +1,5 @@
+../LVGL_Library/lvgl/src/extra/libs/bmp/lv_bmp.c:54:6:lv_bmp_init	16	static
+../LVGL_Library/lvgl/src/extra/libs/bmp/lv_bmp.c:73:17:decoder_info	112	static
+../LVGL_Library/lvgl/src/extra/libs/bmp/lv_bmp.c:124:17:decoder_open	128	static
+../LVGL_Library/lvgl/src/extra/libs/bmp/lv_bmp.c:194:17:decoder_read_line	32	static
+../LVGL_Library/lvgl/src/extra/libs/bmp/lv_bmp.c:249:13:decoder_close	24	static

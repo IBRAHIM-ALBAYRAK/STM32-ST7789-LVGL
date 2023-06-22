@@ -1,0 +1,5 @@
+../LVGL_Library/lvgl/src/misc/lv_txt_ap.c:109:10:_lv_txt_ap_calc_bytes_cnt	40	static
+../LVGL_Library/lvgl/src/misc/lv_txt_ap.c:143:6:_lv_txt_ap_proc	72	static
+../LVGL_Library/lvgl/src/misc/lv_txt_ap.c:256:17:lv_ap_get_char_index	24	static
+../LVGL_Library/lvgl/src/misc/lv_txt_ap.c:271:17:lv_txt_lam_alef	24	static
+../LVGL_Library/lvgl/src/misc/lv_txt_ap.c:296:13:lv_txt_is_arabic_vowel	16	static

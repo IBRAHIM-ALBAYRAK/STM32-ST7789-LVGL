@@ -1,0 +1,17 @@
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:77:6:_lv_bidi_process	40	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:108:15:_lv_bidi_detect_base_dir	32	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:137:10:_lv_bidi_get_logical_pos	48	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:174:10:_lv_bidi_get_visual_pos	48	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:216:6:_lv_bidi_process_paragraph	72	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:308:6:lv_bidi_calculate_align	24	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:327:17:lv_bidi_get_next_paragraph	24	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:345:22:lv_bidi_get_letter_dir	16	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:358:13:lv_bidi_letter_is_weak	24	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:377:13:lv_bidi_letter_is_rtl	16	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:395:13:lv_bidi_letter_is_neutral	24	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:406:17:get_txt_len	24	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:419:13:fill_pos_conv	24	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:428:22:get_next_run	64	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:521:13:rtl_reverse	72	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:589:17:char_change_to_pair	24	static
+../LVGL_Library/lvgl/src/misc/lv_bidi.c:604:22:bracket_process	48	static

@@ -1,0 +1,9 @@
+lv_area.h:123:26:lv_area_get_width	1
+lv_font.h:124:26:lv_font_get_line_height	1
+lv_mem.h:194:44:lv_memcpy_small	2
+lv_color.h:588:26:lv_color_make	1
+lv_color.h:693:26:lv_color_black	1
+lv_draw_label.c:55:6:lv_draw_label_dsc_init	1
+lv_draw_label.c:77:28:lv_draw_label	48
+lv_draw_label.c:364:6:lv_draw_letter	1
+lv_draw_label.c:380:16:hex_char_to_num	10

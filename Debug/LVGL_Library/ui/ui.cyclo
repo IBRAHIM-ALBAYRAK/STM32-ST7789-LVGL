@@ -1,0 +1,10 @@
+ui.c:103:6:ui_event_Next_Button1	2
+ui.c:111:6:ui_event_Back_Btutton1	2
+ui.c:119:6:ui_event_Next_Button2	2
+ui.c:127:6:ui_event_Next_Label2	2
+ui.c:135:6:ui_event_Back_Button2	2
+ui.c:143:6:ui_event_Next_Button3	2
+ui.c:151:6:ui_event_Next_Button4	2
+ui.c:159:6:ui_event_Back_Button3	2
+ui.c:167:6:ui_event_Back_Button4	2
+ui.c:178:6:ui_init	1

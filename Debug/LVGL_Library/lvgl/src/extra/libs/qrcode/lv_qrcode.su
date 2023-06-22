@@ -1,0 +1,5 @@
+../LVGL_Library/lvgl/src/extra/libs/qrcode/lv_qrcode.c:59:12:lv_qrcode_create	32	static
+../LVGL_Library/lvgl/src/extra/libs/qrcode/lv_qrcode.c:79:10:lv_qrcode_update	128	static
+../LVGL_Library/lvgl/src/extra/libs/qrcode/lv_qrcode.c:182:6:lv_qrcode_delete	16	static
+../LVGL_Library/lvgl/src/extra/libs/qrcode/lv_qrcode.c:191:13:lv_qrcode_constructor	40	static
+../LVGL_Library/lvgl/src/extra/libs/qrcode/lv_qrcode.c:205:13:lv_qrcode_destructor	24	static
